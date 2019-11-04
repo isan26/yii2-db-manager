@@ -1,8 +1,13 @@
 {
-    "name": "beaten-sect0r/yii2-db-manager",
-    "description": "The db dump manager module for Yii2",
+    "name": "isan26/yii2-db-manager",
+    "description": "The db dump manager module for Yii2. This is a fork from beaten-sect0r/yii2-db-manager.",
     "keywords": ["yii2", "backup", "db manager", "dump"],
     "authors": [
+	{
+            "name": "Isan Rodriguez",
+            "email": "isan1989@gmail.com",
+            "role": "Developer"
+	},
         {
             "name": "Alexander Volkov",
             "email": "beatensect0r@gmail.com",
